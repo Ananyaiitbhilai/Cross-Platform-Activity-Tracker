@@ -2,7 +2,7 @@
 
 
 ## 🤔 Problem
-We spend a lot of their time on screens and it's quite easy to lose track of the time we spend digitally. There are existing solutions to track their life but most of them are either paid, steal personal data or aren't visually appealing. That's why we decided to build this project. It will collect data on Mobile as well as Desktop devices and show them in a Progressive Web App(PWA). 
+We spend a lot of time on screens and it's quite easy to lose track of the time we spend digitally. There are existing solutions to track their life but most of them are either paid, steal personal data or aren't visually appealing. That's why we decided to build this project. It will collect data on Mobile as well as Desktop devices and show them in a Progressive Web App(PWA). 
 
 ## ✨ Features
 - PWA Dashboard to display all the collected data from different devices.
